@@ -14,7 +14,7 @@ The following files are included in this repository:
 ## File Descriptions
 
 ### `code_of_thesis`
-- **Purpose**: This file contains the code used for data cleaning, statistical regressions, and hypothesis testing for my thesis.
+- **Purpose**: This file contains the code used for data cleaning, statistical regressions, and robust test for my thesis.
 - **Tools Used**: 
   - **Stata**: For data preparation, regression analysis, and hypothesis testing.
   - **R**: For generating visualizations and graphs.
