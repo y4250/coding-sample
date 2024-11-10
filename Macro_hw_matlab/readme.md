@@ -22,4 +22,4 @@ This folder contains MATLAB code used for my macroeconomics homework assignments
 
 ---
 
-Feel free to explore the code files to better understand the analysis and simulations conducted. If you have any questions or need further assistance, please contact me at [yw4250@columbia.edu](mailto:your.email@example.com).
+Feel free to explore the code files to better understand the analysis and simulations conducted. If you have any questions, please contact me at [yw4250@columbia.edu](mailto:your.email@example.com).
