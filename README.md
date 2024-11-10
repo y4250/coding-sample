@@ -37,7 +37,6 @@ The following files are included in this repository:
 
 
 - **Purpose**: Stata code for solving exercises related to metrics and econometrics homework.
-- 
 - **Key Features**:
 - Demonstrates the Central Limit Theorem (CLT) through simulations.
 - Performs regression analysis with linear and instrumental variable models.
