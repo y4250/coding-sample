@@ -16,7 +16,7 @@ The following files are included in this repository:
 ### `code_of_thesis`
 - **Purpose**: This file contains the code used for data cleaning, statistical regressions, and robust test for my thesis.
 - **Tools Used**: 
-  - **Stata**: For data preparation, regression analysis, and hypothesis testing.
+  - **Stata**: For data preparation, regression analysis, and tests.
   - **R**: For generating visualizations and graphs.
 
 ### `satellite_image_R`
