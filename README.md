@@ -10,6 +10,7 @@ The following files are included in this repository:
 - **`satellite_image_R`**: Contains R code for processing **.tif** satellite images and calculating the deforestation rate in the Amazon Biome.
 - **`Macro_hw_matlab`**: Contains MATLAB code used for my macroeconomics homework.
 - **`Metrics_hw_R`**: Contains R code for my metrics homework.
+- **`Metrics_hw_stata`**: Contains Stata code for my metrics homework.
 
 ## File Descriptions
 
@@ -31,6 +32,20 @@ The following files are included in this repository:
 ### `Metrics_hw_R`
 - **Purpose**: R code for solving exercises related to metrics and econometrics homework.
 - **Key Features**: Includes statistical analysis, regression models, and performance metrics.
+
+### `Metrics Homework`
+
+
+- **Purpose**: Stata code for solving exercises related to metrics and econometrics homework.
+- 
+- **Key Features**:
+- Demonstrates the Central Limit Theorem (CLT) through simulations.
+- Performs regression analysis with linear and instrumental variable models.
+- Tests and verifies matrix properties in regression contexts.
+- Conducts hypothesis tests, including F-tests, parameter equality, and endogeneity tests.
+- Analyzes panel data with fixed and random effects models and Hausman tests.
+- Calculates and interprets coefficients, predictions, and confidence intervals with robust standard errors.
+
 
 ## How to Use
 
