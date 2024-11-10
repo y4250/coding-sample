@@ -14,7 +14,7 @@ This folder contains part of the code for my **Metrics Homework**. The files inc
 
 ### `q1code.R`
 - **Purpose**: Performs a **nonparametric regression**.
-- **Method**: Implements both **Local Constant** and **Local Linear** regression techniques to estimate relationships between variables without assuming a specific functional form.
+- **Method**: Implements both **Nadaraya-Watson** and **Local Linear** regression techniques to estimate relationships between variables without assuming a specific functional form.
 
 ### `q2.R`
 - **Purpose**: Conducts a **Generalized Method of Moments (GMM) estimation** of a **CES production function**.
