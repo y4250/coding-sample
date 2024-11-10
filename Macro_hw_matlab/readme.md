@@ -12,7 +12,7 @@ This folder contains MATLAB code used for my macroeconomics homework assignments
 - **Purpose**: Investigates the relationship between **government consumption expenditures** and **gross investment**.
 - **Method**: Uses the **HP filter** to decompose the data and analyze the long-term trends in these variables.
 
-### `trend_fluction.m`
+### `trend_fluctuation.m`
 - **Purpose**: Simulates the growth of an economy subject to various **economic shocks**.
 - **Method**: Models the dynamic behavior of the economy under shocks, providing insights into how the economy responds to changes over time.
 
