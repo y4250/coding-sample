@@ -21,7 +21,7 @@ The following files are included in this repository:
 
 ### `satellite_image_R`
 - **Purpose**: This file processes **.tif** satellite images and calculates the deforestation rate of the Amazon Biome.
-- **Tools Used**: R, for image processing and spatial data analysis.
+- **Tools Used**: R, for image processing and data analysis.
 - **Key Features**: Includes functions for reading, manipulating, and analyzing satellite image data.
 
 ### `Macro_hw_matlab`
