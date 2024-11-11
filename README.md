@@ -33,9 +33,7 @@ The following files are included in this repository:
 - **Purpose**: R code for solving exercises related to metrics and econometrics homework.
 - **Key Features**: Includes statistical analysis, regression models, and performance metrics.
 
-### `Metrics Homework`
-
-
+### `Metrics_hw_stata`
 - **Purpose**: Stata code for solving exercises related to metrics and econometrics homework.
 - **Key Features**:
 - Demonstrates the Central Limit Theorem (CLT) through simulations.
