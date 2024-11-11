@@ -49,7 +49,7 @@ The following files are included in this repository:
 1. Clone or download the repository to your local machine.
 2. Follow the instructions in the **`readme.md`** file located in each folder for more detailed guidance on running the code in each respective section.
 3. Ensure you have the required software:
-   - **Stata** for `code_of_thesis`
+   - **Stata** for `code_of_thesis` and `Metrics_hw_stata`.
    - **R** for `satellite_image_R`, `Metrics_hw_R`, and any R-related tasks
    - **MATLAB** for `Macro_hw_matlab`
 
